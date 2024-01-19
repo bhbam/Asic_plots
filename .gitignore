@@ -1,1 +1,8 @@
 test_plo*/
+.ipynb_*
+data*
+__pycache__
+PLOTS
+eTx_plots
+delay_scan_data_chip*
+.DS_Store
